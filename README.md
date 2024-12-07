@@ -32,7 +32,7 @@ venv\Scripts\activate
 ``` 
 **Passo 5: Instalando as dependências**
 **Instalando rede neural Tesseract OCR:**
-  
+https://github.com/user-attachments/assets/18735547-189d-474d-8782-cdd996fdf861
 **Instalando os módulos de requisitos**
 ```
 pip install -r requirements.txt
