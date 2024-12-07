@@ -47,6 +47,6 @@ pip install -r requirements.txt
 ![Foto do prompt](/docs/prompt.png "Foto do prompt")
 
 **Resultado da detecção**
-
+---
 ![Foto do resultado](/docs/teste.png "Foto do resultado")
 
