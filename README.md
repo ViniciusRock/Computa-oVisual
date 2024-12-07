@@ -33,20 +33,21 @@ venv\Scripts\activate
 **Passo 5: Instalando as dependências**
 **Instalando rede neural Tesseract OCR:**
 
-[Clique aqui para assistir ao vídeo](https://github.com/ViniciusRock/ComputacaoVisual/tree/main/trabalho.mp4)
+[Tutorial de instalação](https://www.youtube.com/watch?v=GmnkRPTT_9o)
 
 **Instalando os módulos de requisitos**
 ```
 pip install -r requirements.txt
 ```
----
 
 **Como usar**
+Assim que inicializado o script, ele irá escanear todas as iamgens dentro da pasta "imagens" e buscar por padrões de textos, se encontrar um, mostra na tela, como no exemplo ao final da página 
 ---
-> python leia.py
+```
+python leia.py
+```
 ![Foto do prompt](/docs/prompt.png "Foto do prompt")
 
 **Resultado da detecção**
----
-![Foto do resultado](/docs/teste.png "Foto do resultado")
 
+![Foto do resultado](/docs/teste.png "Foto do resultado")
